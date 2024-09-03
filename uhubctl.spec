@@ -1,11 +1,11 @@
 Summary:	USB hub per-port power control
 Name:		uhubctl
-Version:	2.5.0
+Version:	2.6.0
 Release:	1
 License:	GPL v2+
 Group:		Applications/System
 Source0:	https://github.com/mvp/uhubctl/archive/v%{version}/%{name}-%{version}.tar.gz
-# Source0-md5:	e4e66d445ba8fda181ce4aa4abcd4247
+# Source0-md5:	61d0aaec37d9c121b59f824782e26f04
 URL:		https://github.com/mvp/uhubctl
 BuildRequires:	libusb-devel
 BuildRequires:	pkgconfig
